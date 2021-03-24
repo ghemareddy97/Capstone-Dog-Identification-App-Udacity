@@ -57,7 +57,7 @@ The final algorithm uses the Resnet50 architecture and runs fairly fast.
 
 ### Results
 
-Run the last two code cells with the image path provided to the function dog_human_predict_breed to check for results. 
+Run the last two code cells with the image path provided to the function dog_human_predict_breed to check for results. You can also find a detailed writeup on [Medium](https://ghemareddy97.medium.com/what-dog-breed-am-i-851240060b68).
 
 ## Licensing and Acknowledgements
 This code is part of the Udacity project for data science nanodegree. I don't hold rights for the data. Feel free to use the code. 
